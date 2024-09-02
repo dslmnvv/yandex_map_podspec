@@ -1,6 +1,6 @@
 {
   "name": "YandexMapKit",
-  "version": "3.5.0",
+  "version": "4.4.0",
   "summary": "YandexMapKit iOS Framework",
   "homepage": "https://tech.yandex.com/maps/mapkit",
   "license": {
@@ -15,11 +15,11 @@
   },
   "dependencies": {
     "YandexRuntime": [
-      "3.5.0"
+      "4.4.0"
     ]
   },
   "source": {
-    "http": "https://maps-ios-pods-public.s3.yandex.net/YandexMapKit-3.5.0.framework.zip",
+    "http": "https://maps-ios-pods-public.s3.yandex.net/YandexMapKit-4.4.0.framework.zip",
     "sha1": "679e57f0e71513ac5fbb3b906d1a61ac7e8d66d7"
   },
   "documentation_url": "https://tech.yandex.com/maps/mapkit",
